@@ -1,9 +1,18 @@
-# Product Category inference
+# Product Category exercise
 
-Here you'll find code for inferring a product catefory from **text** and **image data**.
+Here you'll find a very rushed code for inferring a product category from **text** and **image data** using both unsupervised and supervised learning.
 <br>
 <br>
 The user should be able to tun `categorization.ipynb` and download the trained models.
+<br>
+<br>
+
+
+One can install the required libraries by installing Python3, pip3, and:
+```bash
+$ pip3 install -r requirements.txt
+```
+
 
 # Chosen approach
 
